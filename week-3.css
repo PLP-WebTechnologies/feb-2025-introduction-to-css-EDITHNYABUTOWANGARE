@@ -1,0 +1,35 @@
+/* style.css */
+
+/* Selector 1: Body styling */
+body {
+    font-family: 'Arial', sans-serif; /* Different font */
+    background-color: #f4f4f4; /* Background color */
+    margin: 0;
+    padding: 0;
+}
+
+/* Selector 2: Header styling */
+h1 {
+    color: #333; /* Text color */
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Selector 3: Class-based styling */
+.container {
+    width: 80%;
+    margin: 0 auto; /* Center the container */
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd; /* Border styling */
+}
+
+/* Styling an image */
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px; /* Rounded borders */
+    margin-top: 20px;
+}
+
+/* Adding padding and*
